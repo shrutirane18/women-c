@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "women-c"
+  },
+  "targets": {
+    "women-c": {
+      "hosting": {
+        "women-c": [
+          "women-c"
+        ]
+      }
+    }
+  }
+}
